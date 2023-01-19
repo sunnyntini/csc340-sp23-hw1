@@ -25,10 +25,10 @@ git commit -m "Write a brief description of why you are making this commit."
 
 ## Step Six: Pull from the main branch into your branch.
 More edits may have been to the document from other users in the time it took you to clone the file and update it.
-To resolve any potential conflicts and make sure your document is up-to-date, pull from Master again.
+To resolve any potential conflicts and make sure your document is up-to-date, pull from Main again.
 Note, if there are any updates or merge conflicts that have to be resolved, Go to Step 4.
 
-git pull origin master
+git pull origin main
 
 ## Step Seven: Push your branch to origin.
 

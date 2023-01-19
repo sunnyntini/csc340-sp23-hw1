@@ -5,7 +5,7 @@ This assignment is to make sure you are comfortable using Git. At the end, you w
 ## Step One: Clone this repo to your local machine:
 https://github.com/sunnyntini/csc340-sp23-hw1.git 
 
-git clone
+git clone [URL]
 
 ## Step Two: Create your own branch.
 Name it your first initial and your last name. ie. Mark Smith would be msmith 

@@ -41,3 +41,5 @@ Note: This file is public. Do not add any information that you would not want so
 Also Note: When editing the text file, do not use a word processing program. This will add formatting characters that can break the readability of a plain text file. Use a text editor such as Notepad++ or SublimeText. The file type should remain as .txt, not .rtf, or .pdf, or .doc, or .docx.
 
 Submit a link to the pull request that you created.
+
+This is a new line.

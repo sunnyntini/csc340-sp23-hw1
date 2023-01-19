@@ -45,3 +45,9 @@ I am a computer science student at UNCG. I play the drums poorly and my favorite
 in the world is my cat. I love music. I am a wood dog according to the Chinese Zodiac, and
 an Aquarius. Interior design is my passion. I own three chickens, one of them is a tiny bantam
 with long white feathers that make him look like he's wearing flared white pants like elvis.
+
+Johnathan Gallimore
+---------------------------------
+Hey my name is Johnathan. I am student currently at UNCG for a Computer Science major. I love sports, being outdoors,
+and listening to music. I also like playing video games, hoping to eventually work for game development or something of that sort 
+once I graduate. One more note to add, working in college sucks.

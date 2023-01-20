@@ -10,6 +10,7 @@ William Vaughan
 I am working on my CS degree. I am an avid motorcyclist and work at a
 Porsche dealership. I enjoy hard sci-fi novels, the beach, and kayaking.
 I also love japanese fusion jazz, check out Casiopea and T-Square, great for
+<<<<<<< HEAD
 driving.
 
 Craig Smith

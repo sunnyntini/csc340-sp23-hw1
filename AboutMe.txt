@@ -10,7 +10,6 @@ William Vaughan
 I am working on my CS degree. I am an avid motorcyclist and work at a
 Porsche dealership. I enjoy hard sci-fi novels, the beach, and kayaking.
 I also love japanese fusion jazz, check out Casiopea and T-Square, great for
-<<<<<<< HEAD
 driving.
 
 Craig Smith
@@ -46,3 +45,10 @@ I am a computer science student at UNCG. I play the drums poorly and my favorite
 in the world is my cat. I love music. I am a wood dog according to the Chinese Zodiac, and
 an Aquarius. Interior design is my passion. I own three chickens, one of them is a tiny bantam
 with long white feathers that make him look like he's wearing flared white pants like elvis.
+
+Dallin Pierce
+--------------------------------
+I'm a 4th year Comp. Sci major here at UNCG and I'm also a transfer student 
+from GTCC. My hobbies include singing, playing guitar, playing videogames, and 
+reading high fantasy books. if you enjoy reading, definitely check out anything 
+written by Brandon Sanderson

@@ -98,4 +98,8 @@ Just a programmer.
 
 Hayden Perusek
 --------------------------------
+<<<<<<< Updated upstream
 I am a senior at UNCG and am majoring in Computer Science. I am 27 years old and I am in Air Force ROTC, which means I plan on joining the Air Force after I graduate (hopefully to use my computer skills). I enjoy working on cars and playing video games on my free time. 
+=======
+I am a senior at UNCG and am majoring in computer science. I am 27 years old and also a cadet in AFROTC. My goal is to apply my degree in the AF after I graduate. My hobbies are working on cars, playing video games, and spending time with my wife. I also love traveling, I go to Spain at least once a year to visit family.
+>>>>>>> Stashed changes

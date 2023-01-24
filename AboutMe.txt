@@ -5,6 +5,10 @@ and a BS in Computer Science from Indiana University of Pennsylvania.
 I like superheroes, puzzles and Lego; Wordle is okay too, I guess. This
 is the way.
 
+Eli Stafford
+------------------------------
+I am a junior major of Computer Science with a minor in French. Fantasy novels, video games and linguistics are some of my hobbies. I came to UNCG as a jazz major (upright bass), but thankfully realized I am not a musician. I hope to do a master's in computational linguistics after graduating. 
+
 William Vaughan
 ------------------------------
 I am working on my CS degree. I am an avid motorcyclist and work at a
@@ -102,3 +106,4 @@ I am a senior at UNCG and am majoring in computer science.
 I am 27 years old and also a cadet in AFROTC. My goal is to apply my degree in the AF after I graduate.
 My hobbies are working on cars, playing video games, and spending time with my wife. 
 I also love traveling, I go to Spain at least once a year to visit family.
+

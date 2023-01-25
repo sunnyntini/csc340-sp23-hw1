@@ -1,4 +1,4 @@
-Sunny Ntini
+﻿Sunny Ntini
 ------------------------------
 I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, 
 and a BS in Computer Science from Indiana University of Pennsylvania. 
@@ -7,7 +7,9 @@ is the way.
 
 Eli Stafford
 ------------------------------
-I am a junior major of Computer Science with a minor in French. Fantasy novels, video games and linguistics are some of my hobbies. I came to UNCG as a jazz major (upright bass), but thankfully realized I am not a musician. I hope to do a master's in computational linguistics after graduating. 
+I am a junior major of Computer Science with a minor in French. Fantasy novels, video games and linguistics are some of my hobbies. 
+I came to UNCG as a jazz major (upright bass), but thankfully realized I am not a musician. 
+I hope to do a master's in computational linguistics after graduating. 
 
 William Vaughan
 ------------------------------
@@ -125,3 +127,19 @@ I am 21 years old and a senior, I guess. Wow, that's hard to think about.
 Anyway, I set out to major in computer science with a minor in math. 
 I like to play online at chess.com, and occasionally I can be found
 playing one of the many mario games I have managed to collect.
+
+Matthew Ingallinera
+--------------------------------
+I am a junior working on my computer science degree here at UNCG. Outside of class I love listening to music and watching tv. 
+I also love playing guitar in my free time. I would also like to note that I am a full time worker on top of doing classes full time at UNCG.
+
+Yeonseo Choi
+------------------------------
+I am 22 years old and an exchange student from South Korea. I am a senior and majoring in computer science. I like to play tennis. 
+
+Duncan Bruce
+--------------------------------
+I  am a junior at UNCG majoring in computer science. 
+Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
+I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
+

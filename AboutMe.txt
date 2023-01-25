@@ -121,6 +121,13 @@ I am 19 years old and a junior at uncg, majoring in computer science and math. O
 Sweet Old Bill's in High Point. I like to workout, work on my trucks, and play video games in my spare time. 
 My dream job would be connecting my passion for cars and tech in some way. 
 
+Darian Morales
+--------------------------------
+I am 21 years old and a senior, I guess. Wow, that's hard to think about.
+Anyway, I set out to major in computer science with a minor in math. 
+I like to play online at chess.com, and occasionally I can be found
+playing one of the many mario games I have managed to collect.
+
 Matthew Ingallinera
 --------------------------------
 I am a junior working on my computer science degree here at UNCG. Outside of class I love listening to music and watching tv. 
@@ -135,3 +142,4 @@ Duncan Bruce
 I  am a junior at UNCG majoring in computer science. 
 Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
 I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
+

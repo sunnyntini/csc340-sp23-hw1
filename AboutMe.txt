@@ -1,4 +1,4 @@
-﻿Sunny Ntini
+Sunny Ntini
 ------------------------------
 I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, 
 and a BS in Computer Science from Indiana University of Pennsylvania. 
@@ -142,4 +142,8 @@ Duncan Bruce
 I  am a junior at UNCG majoring in computer science. 
 Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
 I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
+
+Ebrahim Ehsan
+------------------------------
+I am a junior majoring in computer science. Outside of studying I like to do photography and have a passion with cars. I also love going to the gym because it is a huge part of my life since in the past I used to be quite unhealthy and overweight. In my free time I also love watching UFC and spending time with friends. 
 

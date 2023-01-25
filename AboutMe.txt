@@ -143,7 +143,15 @@ I  am a junior at UNCG majoring in computer science.
 Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
 I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
 
+<<<<<<< HEAD
 Ebrahim Ehsan
 ------------------------------
 I am a junior majoring in computer science. Outside of studying I like to do photography and have a passion with cars. I also love going to the gym because it is a huge part of my life since in the past I used to be quite unhealthy and overweight. In my free time I also love watching UFC and spending time with friends. 
+=======
+James Copestake
+--------------------------------
+I am 21 years old and am an exchange student from the UK.
+My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
+I enjoy outdoor activities such as skiing and hiking. 
+>>>>>>> 0669e6c71bcb0e3c3b85f55f820bda1e31eaadcf
 

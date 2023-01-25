@@ -1,4 +1,4 @@
-﻿Sunny Ntini
+Sunny Ntini
 ------------------------------
 I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, 
 and a BS in Computer Science from Indiana University of Pennsylvania. 
@@ -142,4 +142,10 @@ Duncan Bruce
 I  am a junior at UNCG majoring in computer science. 
 Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
 I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
+
+James Copestake
+--------------------------------
+I am 21 years old and am an exchange student from the UK.
+My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
+I enjoy outdoor activities such as skiing and hiking. 
 

@@ -1,4 +1,4 @@
-Sunny Ntini
+﻿Sunny Ntini
 ------------------------------
 I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, 
 and a BS in Computer Science from Indiana University of Pennsylvania. 
@@ -119,4 +119,9 @@ I am 19 years old and a junior at uncg, majoring in computer science and math. O
 Sweet Old Bill's in High Point. I like to workout, work on my trucks, and play video games in my spare time. 
 My dream job would be connecting my passion for cars and tech in some way. 
 
+Duncan Bruce
+--------------------------------
+I  am a junior at UNCG majoring in computer science. 
+Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
+I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
 

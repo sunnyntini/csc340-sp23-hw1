@@ -156,4 +156,20 @@ I am 21 years old and am an exchange student from the UK.
 My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
 I enjoy outdoor activities such as skiing and hiking. 
 
+<<<<<<< HEAD
 >>>>>>> 0669e6c71bcb0e3c3b85f55f820bda1e31eaadcf
+=======
+Dayton Pulliam 
+--------------------------------------------------------
+I am a third year student here at UNCG, I have an associates degree from 
+Sandhills Community college in electrical engineering and was Comptia A+ 
+certified. 
+
+Gary Li
+--------------------------------
+Hi, I am 20 years old and a junior majoring in computer science like everyone else.
+I have a corgi named cheerio and I enjoy excercising and rock climbing.
+I also play video games.
+
+
+>>>>>>> 9f64ae8842c804c7002bfbbcdea9ca682aff9e5d

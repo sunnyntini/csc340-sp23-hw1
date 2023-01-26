@@ -149,3 +149,8 @@ I am 21 years old and am an exchange student from the UK.
 My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
 I enjoy outdoor activities such as skiing and hiking. 
 
+Collin Harris
+--------------------------------
+I'm 20 years old and from Apex NC and currently a junior.
+I major in CS so that I can work in game development.
+I am currently facinated by the competitive scene of Super Smash Brothers.

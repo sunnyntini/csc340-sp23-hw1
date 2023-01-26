@@ -149,8 +149,24 @@ I am 21 years old and am an exchange student from the UK.
 My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
 I enjoy outdoor activities such as skiing and hiking. 
 
+<<<<<<< HEAD
 Collin Harris
 --------------------------------
 I'm 20 years old and from Apex NC and currently a junior.
 I major in CS so that I can work in game development.
 I am currently facinated by the competitive scene of Super Smash Brothers.
+=======
+Dayton Pulliam 
+--------------------------------------------------------
+I am a third year student here at UNCG, I have an associates degree from 
+Sandhills Community college in electrical engineering and was Comptia A+ 
+certified. 
+
+Gary Li
+--------------------------------
+Hi, I am 20 years old and a junior majoring in computer science like everyone else.
+I have a corgi named cheerio and I enjoy excercising and rock climbing.
+I also play video games.
+
+
+>>>>>>> 9f64ae8842c804c7002bfbbcdea9ca682aff9e5d

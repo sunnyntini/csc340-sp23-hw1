@@ -143,12 +143,22 @@ I  am a junior at UNCG majoring in computer science.
 Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
 I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
 
+<<<<<<< HEAD
+Greyson Williams
+--------------------------------
+I am a senior at UNCG, and my major is computer science. I have two associates degrees from GTCC, one is in 
+computer science and the other is in cyber crime. I want to go information technology as my career and
+i want to own a business in cyber security in the future. 
+=======
 James Copestake
 --------------------------------
 I am 21 years old and am an exchange student from the UK.
 My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
 I enjoy outdoor activities such as skiing and hiking. 
 
+<<<<<<< HEAD
+>>>>>>> 0669e6c71bcb0e3c3b85f55f820bda1e31eaadcf
+=======
 Dayton Pulliam 
 --------------------------------------------------------
 I am a third year student here at UNCG, I have an associates degree from 
@@ -162,3 +172,4 @@ I have a corgi named cheerio and I enjoy excercising and rock climbing.
 I also play video games.
 
 
+>>>>>>> 9f64ae8842c804c7002bfbbcdea9ca682aff9e5d

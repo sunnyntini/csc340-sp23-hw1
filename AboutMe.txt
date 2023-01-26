@@ -1,4 +1,4 @@
-﻿Sunny Ntini
+Sunny Ntini
 ------------------------------
 I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, 
 and a BS in Computer Science from Indiana University of Pennsylvania. 
@@ -143,8 +143,17 @@ I  am a junior at UNCG majoring in computer science.
 Before coming to UNCG I went to Durham Tech and got an Associate's Degree.
 I have a cat and a dog. I enjoy reading, anime, video games, and playing Dungeon's and Dragon's with my friends.
 
+<<<<<<< HEAD
 Greyson Williams
 --------------------------------
 I am a senior at UNCG, and my major is computer science. I have two associates degrees from GTCC, one is in 
 computer science and the other is in cyber crime. I want to go information technology as my career and
 i want to own a business in cyber security in the future. 
+=======
+James Copestake
+--------------------------------
+I am 21 years old and am an exchange student from the UK.
+My main field of study is computer science but I also study Mathematics, Business, German and Kinesiology.
+I enjoy outdoor activities such as skiing and hiking. 
+
+>>>>>>> 0669e6c71bcb0e3c3b85f55f820bda1e31eaadcf

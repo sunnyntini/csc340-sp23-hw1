@@ -15,6 +15,8 @@ git checkout -b [BRANCH NAME]
 ## Step Three: Open the file AboutMe.txt and edit it in a plain text editor.
 Add your name, underline it using dashes. Write a short paragraph about yourself.
 
+My name is Thang Hoang, junior standing. I love coding and have a great passion for coding.
+
 ## Step Four: Add the edited file to the commit.
 
 git add --all
